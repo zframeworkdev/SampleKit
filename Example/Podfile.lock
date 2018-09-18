@@ -1,0 +1,16 @@
+PODS:
+  - SampleKit (1.0.1)
+
+DEPENDENCIES:
+  - SampleKit (from `../`)
+
+EXTERNAL SOURCES:
+  SampleKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SampleKit: 2e3c8117d4bc7ffb01bdf2352d0a38d57bd86b1f
+
+PODFILE CHECKSUM: bfa8c0c3421ec27ef60d4535ebfffa5cb97356aa
+
+COCOAPODS: 1.5.3
